@@ -1,0 +1,7 @@
+{
+    "API_Key": "your_hotmailbox_api",
+    "Threads": 1,
+    "Amount_at_once": 1,
+    "type": "outlook"
+}
+    
